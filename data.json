@@ -50,10 +50,10 @@
       "name": "Bench Press"
     },
     {
-      "_id": "8",
-      "picture": "https://d1e4pidl3fu268.cloudfront.net/2c7e1c2b-bf56-43e7-a5ec-ce25afff5cfe/ComputationalThinkingProblemSolving.png",
-      "age": 35,
-      "title": "Computational Thinking Of Problem solving",
-      "name": "Swiss Ball Rollout"
-    }
+        "_id": "8",
+        "picture": "https://d1e4pidl3fu268.cloudfront.net/2c7e1c2b-bf56-43e7-a5ec-ce25afff5cfe/ComputationalThinkingProblemSolving.png",
+        "age": 35,
+        "title": "Computational Thinking Of Problem solving",
+        "name": "Swiss Ball Rollout"
+      }
   ]
