@@ -1,0 +1,65 @@
+[
+    {
+      "_id": "6335f6e6ca40b2b9fa75c9e3",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/the_15_most_important_exercises_for_men_main.jpg?w=700&quality=40&strip=all",
+      "age": 26,
+      "time": 10,
+      "name": "Deadlift"
+    },
+    {
+      "_id": "6335f6e605341923267fc2423",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/dumbbell-bench-press-chest-weights-main.jpg?w=700&quality=86&strip=all",
+      "age": 37,
+      "time": 30,
+      "name": "Bench Press"
+    },
+    {
+      "_id": "6335f6e667c66032260ce8f",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/swiss_ball_rollout_main.jpg?w=700&quality=86&strip=all",
+      "age": 35,
+      "time": 35,
+      "name": "Swiss Ball Rollout"
+    },
+    {
+      "_id": "6335f6e6665fb3719cb5292b",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/15-best-exercises-squat.jpg?w=400&quality=86&strip=all",
+      "age": 22,
+      "time": 55,
+      "name": "Back squat"
+    },
+    {
+      "_id": "6335f6e65335d7391bb2810f",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/kb_swing_main.jpg?w=700&quality=86&strip=all",
+      "age": 26,
+      "time": 40,
+      "name": "Kettlebell swing"
+    },
+    {
+      "_id": "6335f6e6d450fbcc2b7b51cd",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/good-morning-bands-main.jpg?w=700&quality=86&strip=all",
+      "age": 31,
+      "time": 20,
+      "name": "Banded Good Morning"
+    },
+    {
+      "_id": "6335f6e6ca40b2b9fa75c9e5",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/the_15_most_important_exercises_for_men_main.jpg?w=700&quality=40&strip=all",
+      "age": 26,
+      "time": 10,
+      "name": "Deadlift"
+    },
+    {
+      "_id": "6335f6e605341923267fc223",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/dumbbell-bench-press-chest-weights-main.jpg?w=700&quality=86&strip=all",
+      "age": 37,
+      "time": 30,
+      "name": "Bench Press"
+    },
+    {
+      "_id": "6335f6e667c66032260ce8f9",
+      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/swiss_ball_rollout_main.jpg?w=700&quality=86&strip=all",
+      "age": 35,
+      "time": 10,
+      "name": "Swiss Ball Rollout"
+    }
+  ]
