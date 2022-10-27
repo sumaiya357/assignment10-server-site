@@ -1,62 +1,56 @@
 [
+   
     {
-      "_id": "6335f6e6ca40b2b9fa75c9e3",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/the_15_most_important_exercises_for_men_main.jpg?w=700&quality=40&strip=all",
-      "age": 26,
-      "time": 10,
-      "name": "Deadlift"
-    },
-    {
-      "_id": "6335f6e605341923267fc2423",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/dumbbell-bench-press-chest-weights-main.jpg?w=700&quality=86&strip=all",
+      "_id": "1",
+      "picture": "https://i5.walmartimages.com/asr/3545f9f0-9616-4c2a-adb1-0577cafd4af9.e3cb22d9ba8b0fb396a1156534946678.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
       "age": 37,
       "time": 30,
       "name": "Bench Press"
     },
     {
-      "_id": "6335f6e667c66032260ce8f",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/swiss_ball_rollout_main.jpg?w=700&quality=86&strip=all",
+      "_id": "2",
+      "picture": "https://hackr.io/blog/best-csharp-courses/thumbnail/large",
       "age": 35,
       "time": 35,
       "name": "Swiss Ball Rollout"
     },
     {
-      "_id": "6335f6e6665fb3719cb5292b",
+      "_id": "3",
       "picture": "https://www.mensjournal.com/wp-content/uploads/mf/15-best-exercises-squat.jpg?w=400&quality=86&strip=all",
       "age": 22,
       "time": 55,
       "name": "Back squat"
     },
     {
-      "_id": "6335f6e65335d7391bb2810f",
+      "_id": "4",
       "picture": "https://www.mensjournal.com/wp-content/uploads/mf/kb_swing_main.jpg?w=700&quality=86&strip=all",
       "age": 26,
       "time": 40,
       "name": "Kettlebell swing"
     },
     {
-      "_id": "6335f6e6d450fbcc2b7b51cd",
+      "_id": "5",
       "picture": "https://www.mensjournal.com/wp-content/uploads/mf/good-morning-bands-main.jpg?w=700&quality=86&strip=all",
       "age": 31,
       "time": 20,
       "name": "Banded Good Morning"
     },
     {
-      "_id": "6335f6e6ca40b2b9fa75c9e5",
+      "_id": "6",
       "picture": "https://www.mensjournal.com/wp-content/uploads/mf/the_15_most_important_exercises_for_men_main.jpg?w=700&quality=40&strip=all",
       "age": 26,
       "time": 10,
       "name": "Deadlift"
     },
     {
-      "_id": "6335f6e605341923267fc223",
+      "_id": "7",
       "picture": "https://www.mensjournal.com/wp-content/uploads/mf/dumbbell-bench-press-chest-weights-main.jpg?w=700&quality=86&strip=all",
       "age": 37,
       "time": 30,
       "name": "Bench Press"
     },
     {
-      "_id": "6335f6e667c66032260ce8f9",
+      "_id": "8",
       "picture": "https://www.mensjournal.com/wp-content/uploads/mf/swiss_ball_rollout_main.jpg?w=700&quality=86&strip=all",
       "age": 35,
       "time": 10,
