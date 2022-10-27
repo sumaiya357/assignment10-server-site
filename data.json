@@ -2,58 +2,58 @@
    
     {
       "_id": "1",
-      "picture": "https://i5.walmartimages.com/asr/3545f9f0-9616-4c2a-adb1-0577cafd4af9.e3cb22d9ba8b0fb396a1156534946678.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+      "picture": "https://i.ytimg.com/vi/CNFK86hJRfE/maxresdefault.jpg",
       "age": 37,
-      "time": 30,
+      "title": "Introduction To computer Science",
       "name": "Bench Press"
     },
     {
       "_id": "2",
-      "picture": "https://hackr.io/blog/best-csharp-courses/thumbnail/large",
+      "picture": "https://1.bp.blogspot.com/-KnGVLo7U7gQ/Xx0E8Sh8KtI/AAAAAAAAhnE/THS8q3fq9zg3jWTQqFr2s0XuE_M4BABNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/free%2BC%2BProgramming%2Bcourses%2Bfor%2Bbeginners.png",
       "age": 35,
-      "time": 35,
+      "title": "Learn C Programming",
       "name": "Swiss Ball Rollout"
     },
     {
       "_id": "3",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/15-best-exercises-squat.jpg?w=400&quality=86&strip=all",
+      "picture": "https://static.skillshare.com/uploads/discussion/tmp/b8ba300b.png",
       "age": 22,
-      "time": 55,
+      "title": "Learn C# Basic",
       "name": "Back squat"
     },
     {
       "_id": "4",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/kb_swing_main.jpg?w=700&quality=86&strip=all",
+      "picture": "https://i.ytimg.com/vi/o1IaduQICO0/maxresdefault.jpg",
       "age": 26,
-      "time": 40,
+      "title": " JavaScript Basic",
       "name": "Kettlebell swing"
     },
     {
       "_id": "5",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/good-morning-bands-main.jpg?w=700&quality=86&strip=all",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5e7Ff93ojBzdEUtc0kOvlpKUfFAQFEA4X6u6qe-xgM54dSfcjuHRumnn8C0vFLAGdvls&usqp=CAU",
       "age": 31,
-      "time": 20,
+      "title": "Learn Python Advance ",
       "name": "Banded Good Morning"
     },
     {
       "_id": "6",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/the_15_most_important_exercises_for_men_main.jpg?w=700&quality=40&strip=all",
+      "picture": "https://qph.cf2.quoracdn.net/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq",
       "age": 26,
-      "time": 10,
+      "title": "WEB Development",
       "name": "Deadlift"
     },
     {
       "_id": "7",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/dumbbell-bench-press-chest-weights-main.jpg?w=700&quality=86&strip=all",
+      "picture": "https://hackr.io/blog/cpp-course/thumbnail/large",
       "age": 37,
-      "time": 30,
+      "title": "Learn C++ Advance",
       "name": "Bench Press"
     },
     {
       "_id": "8",
-      "picture": "https://www.mensjournal.com/wp-content/uploads/mf/swiss_ball_rollout_main.jpg?w=700&quality=86&strip=all",
+      "picture": "https://d1e4pidl3fu268.cloudfront.net/2c7e1c2b-bf56-43e7-a5ec-ce25afff5cfe/ComputationalThinkingProblemSolving.png",
       "age": 35,
-      "time": 10,
+      "title": "Computational Thinking Of Problem solving",
       "name": "Swiss Ball Rollout"
     }
   ]
