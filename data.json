@@ -4,56 +4,39 @@
       "_id": "1",
       "picture": "https://i.ytimg.com/vi/CNFK86hJRfE/maxresdefault.jpg",
       "age": 37,
-      "title": "Introduction To computer Science",
-      "name": "Bench Press"
+      "title": "Introduction To computer Science"
     },
     {
       "_id": "2",
       "picture": "https://1.bp.blogspot.com/-KnGVLo7U7gQ/Xx0E8Sh8KtI/AAAAAAAAhnE/THS8q3fq9zg3jWTQqFr2s0XuE_M4BABNQCLcBGAsYHQ/w1200-h630-p-k-no-nu/free%2BC%2BProgramming%2Bcourses%2Bfor%2Bbeginners.png",
       "age": 35,
-      "title": "Learn C Programming",
-      "name": "Swiss Ball Rollout"
+      "title": "Learn C Programming"
     },
     {
       "_id": "3",
       "picture": "https://static.skillshare.com/uploads/discussion/tmp/b8ba300b.png",
       "age": 22,
-      "title": "Learn C# Basic",
-      "name": "Back squat"
+      "title": "Learn C# Basic"
     },
     {
       "_id": "4",
       "picture": "https://i.ytimg.com/vi/o1IaduQICO0/maxresdefault.jpg",
       "age": 26,
-      "title": " JavaScript Basic",
-      "name": "Kettlebell swing"
+      "title": " JavaScript Basic"
     },
     {
       "_id": "5",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5e7Ff93ojBzdEUtc0kOvlpKUfFAQFEA4X6u6qe-xgM54dSfcjuHRumnn8C0vFLAGdvls&usqp=CAU",
       "age": 31,
-      "title": "Learn Python Advance ",
-      "name": "Banded Good Morning"
+      "title": "Learn Python Advance "
+    
     },
     {
       "_id": "6",
       "picture": "https://qph.cf2.quoracdn.net/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq",
       "age": 26,
-      "title": "WEB Development",
-      "name": "Deadlift"
-    },
-    {
-      "_id": "7",
-      "picture": "https://hackr.io/blog/cpp-course/thumbnail/large",
-      "age": 37,
-      "title": "Learn C++ Advance",
-      "name": "Bench Press"
-    },
-    {
-        "_id": "8",
-        "picture": "https://d1e4pidl3fu268.cloudfront.net/2c7e1c2b-bf56-43e7-a5ec-ce25afff5cfe/ComputationalThinkingProblemSolving.png",
-        "age": 35,
-        "title": "Computational Thinking Of Problem solving",
-        "name": "Swiss Ball Rollout"
-      }
+      "title": "WEB Development"
+     
+    }
+  
   ]
